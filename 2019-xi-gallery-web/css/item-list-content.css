@@ -1,0 +1,13 @@
+/*
+1920
+*/
+.container {
+  margin-left: 50%; }
+  .container .list-group {
+    margin-top: 150px; }
+
+@media (max-width: 425px) {
+  .body_content {
+    margin-top: 2.71rem; }
+  .list-group {
+    margin-top: 0px; } }
